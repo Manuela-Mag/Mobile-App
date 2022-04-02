@@ -173,6 +173,5 @@ class _CalendarState extends State<Calendar> {
           dictionary.putIfAbsent(i.Day, () => i);
         }
       }
-    for ( d in di)
   }
 }
